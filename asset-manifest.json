@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SerachCitiesinAp/static/css/main.d244a999.css",
+    "main.js": "/SerachCitiesinAp/static/js/main.b7892c9a.js",
+    "static/js/453.64512fd7.chunk.js": "/SerachCitiesinAp/static/js/453.64512fd7.chunk.js",
+    "index.html": "/SerachCitiesinAp/index.html",
+    "main.d244a999.css.map": "/SerachCitiesinAp/static/css/main.d244a999.css.map",
+    "main.b7892c9a.js.map": "/SerachCitiesinAp/static/js/main.b7892c9a.js.map",
+    "453.64512fd7.chunk.js.map": "/SerachCitiesinAp/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d244a999.css",
+    "static/js/main.b7892c9a.js"
+  ]
+}
